@@ -1,0 +1,32 @@
+{
+    "Asia": {
+        "Tier1_pct": 0.05,
+        "Tier2_pct": 0.1,
+        "Tier3_pct": 0.3
+    },
+    "Europe_afternoon": {
+        "Tier1_pct": 0.007,
+        "Tier2_pct": 0.035,
+        "Tier3_pct": 0.12
+    },
+    "Europe_evening": {
+        "Tier1_pct": 0.005,
+        "Tier2_pct": 0.02,
+        "Tier3_pct": 0.1
+    },
+    "Europe_morning": {
+        "Tier1_pct": 0.01,
+        "Tier2_pct": 0.04,
+        "Tier3_pct": 0.15
+    },
+    "MEA": {
+        "Tier1_pct": 0.02,
+        "Tier2_pct": 0.060000000000000005,
+        "Tier3_pct": 0.19999999999999998
+    },
+    "North America": {
+        "Tier1_pct": 0.03,
+        "Tier2_pct": 0.08,
+        "Tier3_pct": 0.25
+    }
+}
